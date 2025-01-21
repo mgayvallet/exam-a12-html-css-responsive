@@ -217,6 +217,12 @@ footer > nav > ul > li > img:hover{
         background-image: url(assets/mae-mu-1APtYqzNajA-unsplash.png);
         padding: 34px 48px 300px;
     }
+    h1{
+        font-size: 56px;
+        font-weight: 900;
+        line-height: 69.05px;
+        letter-spacing: 8.75px;
+    }
     .navDesktop{
         display: flex;
         flex-direction: row;
@@ -246,9 +252,12 @@ footer > nav > ul > li > img:hover{
     }
     .divSecMain{
         padding: 157px 140px 0 80px;
+        gap: 40px;
+        align-items: flex-start;
     }
     .divSecMain > h2{
         text-align: start;
+        margin-bottom: 41px;
         font-size: 40px;
         font-weight: 700;
         line-height: 49.32px;
